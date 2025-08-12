@@ -9,7 +9,7 @@ This project aims to provide an intelligent solution for managing your wardrobe 
 ## Jupyter notebooks
 * **Item classification**: [Link](https://colab.research.google.com/drive/1scuubYOVsM3UjpQZmqFQbjK7sYx0bpd9?usp=sharing)
 *  **Siamese network data preparation**: [Link](https://colab.research.google.com/drive/1Nza8JqagDwdiwqufdjeJyX9SbbnQIzlD?usp=sharing)
-*  **Siamese network**: [Link](https://colab.research.google.com/drive/1suMfgb-5VG7dK852z-YcrP5ZYUHPKYlB?usp=sharing)
+*  **Siamese network**: [Link](https://colab.research.google.com/drive/1t1djpwPXnADrj-8Mw20ZonJELQSC5qYq?usp=sharing)
 
 ## Usage
 
