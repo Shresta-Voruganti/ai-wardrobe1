@@ -7,7 +7,7 @@ This project aims to provide an intelligent solution for managing your wardrobe 
 * **Outfit Generation**: By leveraging an AI model, the AI Wardrobe system can generate stylish outfits based on the available clothes in your digital wardrobe.
 
 ## Jupyter notebooks
-* **Item classification**: [Link]([https://colab.research.google.com/drive/1rBoMSQz3JSipRs9IQRFEHFFgR_rb_uhx?usp=sharing](https://colab.research.google.com/drive/1scuubYOVsM3UjpQZmqFQbjK7sYx0bpd9?usp=sharing))
+* **Item classification**: [Link](https://colab.research.google.com/drive/1scuubYOVsM3UjpQZmqFQbjK7sYx0bpd9?usp=sharing)
 *  **Siamese network data preparation**: [Link](https://colab.research.google.com/drive/1VG9TsyyLwghVEmNTNt2e0lSv1n6BZhT6?usp=share_link)
 *  **Siamese network**: [Link](https://colab.research.google.com/drive/1suMfgb-5VG7dK852z-YcrP5ZYUHPKYlB?usp=sharing)
 
