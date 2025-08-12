@@ -43,4 +43,4 @@ npm start
 
 
 ## Contributing
-Contributions to the Smart Wardrobe project are welcome! If you have any ideas, improvements, or bug fixes, feel free to submit a pull request. Please ensure that your contributions adhere to the project's coding standards and guidelines.
+Contributions to the AI Wardrobe project are welcome! If you have any ideas, improvements, or bug fixes, feel free to submit a pull request. Please ensure that your contributions adhere to the project's coding standards and guidelines.
