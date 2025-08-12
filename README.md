@@ -43,12 +43,3 @@ npm start
 
 ## Contributing
 Contributions to the Smart Wardrobe project are welcome! If you have any ideas, improvements, or bug fixes, feel free to submit a pull request. Please ensure that your contributions adhere to the project's coding standards and guidelines.
-
-## License
-The Smart Wardrobe project is licensed under the [MIT License](LICENSE "target=_new").
-
-## Acknowledgments
-We would like to thank the open-source community for their valuable contributions to the technologies used in this project.
-
-## Contact
-For any inquiries or questions, please contact [Roman Kulyk](https://github.com/kkulykk "target=_new") or [Oleksandra Tsepilova](https://github.com/sasha-tsepilova "target=_new")
