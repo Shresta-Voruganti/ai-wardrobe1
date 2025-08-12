@@ -1,5 +1,5 @@
-# Smart Wardrobe
-This project aims to provide an intelligent solution for managing your wardrobe and generating outfits based on the clothes you own. By leveraging computer vision and machine learning, the Smart Wardrobe system can analyze uploaded clothing items, identify their characteristics, and store them in a digital wardrobe. It also utilizes an AI model to generate fashionable outfits using the available clothes.
+# AI Wardrobe
+This project aims to provide an intelligent solution for managing your wardrobe and generating outfits based on the clothes you own. By leveraging computer vision and machine learning, the AI Wardrobe system can analyze uploaded clothing items, identify their characteristics, and store them in a digital wardrobe. It also utilizes an AI model to generate fashionable outfits using the available clothes.
 
 ## Features
 * **Clothing Detection**: The Smart Wardrobe system uses computer vision techniques to identify various types of clothing items from images or uploaded photos.
