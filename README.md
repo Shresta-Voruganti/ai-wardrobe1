@@ -38,10 +38,6 @@ npm start
 
 ## Demo
 
-<!--
-![smart-wardrobe-demo](https://github.com/kkulykk/smart-wardrobe/assets/72144618/ff8f6b8f-71ac-4dd7-a357-f8d0e085d6b4)
--->
-
 ![ai-wardrobe-demo](https://github.com/user-attachments/assets/89679dca-fb7e-42f7-b54f-28d0a2baac1f)
 
 
