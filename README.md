@@ -23,7 +23,7 @@ git clone https://github.com/your-username/ai-wardrobe1.git
 ```
 3. Install the required dependencies. You may use a virtual environment to keep your dependencies isolated:
 ```
-cd smart-wardrobe
+cd ai-wardrobe1
 npm i
 cd ./server
 pip install -r requirements.txt
